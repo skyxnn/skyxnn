@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Cheon YeaEun who is dreaming of becoming a Data Scientist.<br>
-I majored in AI Big Data & Management and graduated from Kookmin Univ in February 2024.
+I'm Cheon YeaEun.<br>
+I majored in AI Big Data & Management at Kookmin University and graduated from Kookmin Univ in February 2024.
 <br><br><br>
 
 ### Skill
@@ -27,7 +27,7 @@ I majored in AI Big Data & Management and graduated from Kookmin Univ in Februar
 ### Other
 <a href="mailto:tpdk9556@gmail.com">
   <img src="https://img.shields.io/badge/tpdk9556@gmail.com-F8F8F8?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
-<a href="https://skyxnn.notion.site/About-Me-07d503f422594c9683c0f53c8339cdac?pvs=4">
+<a href="https://www.notion.so/skyxnn/About-Me-07d503f422594c9683c0f53c8339cdac?pvs=4">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="https://github.com/skyxnn/skyxnn/README.md">
+<a href="https://github.com/skyxnn">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
