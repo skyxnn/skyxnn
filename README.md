@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I'm Cheon YeaEun.<br>
-I majored in AI Big Data & Management at Kookmin University and graduated from Kookmin Univ in February 2024.
-<br><br><br>
-
 ### Skill
 #### Languages & Tools
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
