@@ -21,7 +21,5 @@
 ### Other
 <a href="mailto:tpdk9556@gmail.com">
   <img src="https://img.shields.io/badge/tpdk9556@gmail.com-F8F8F8?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
-<a href="https://www.notion.so">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="https://github.com/skyxnn">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
